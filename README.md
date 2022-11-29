@@ -19,3 +19,4 @@
 [Actividad-2.2](https://github.com/adp-code-2223/Actividad2.2)<br/>
 [Actividad-2.3](https://github.com/adp-code-2223/Actividad2.3-DAO.git)<br/>
 [Actividad-2.4-Sol](https://github.com/adp-code-2223/Actividad2.4-DAO-Sol.git)<br/>
+[Actividad-2.5](https://github.com/adp-code-2223/Actividad2.5-DAO-Account.git)<br/>
