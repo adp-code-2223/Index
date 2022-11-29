@@ -17,3 +17,4 @@
 [Ejemplo básico de JDBC mejorado](https://github.com/adp-code-2223/UD2_EjemploBasicoMejoradoJDBC.git)<br/>
 [Actividad-2.1](https://github.com/adp-code-2223/Actividad2.1.git)<br/>
 [Actividad-2.2](https://github.com/adp-code-2223/Actividad2.2)<br/>
+[Actividad-2.3](https://github.com/adp-code-2223/Actividad2.3-DAO.git)<br/>
