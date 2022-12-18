@@ -21,3 +21,8 @@
 [Actividad-2.4-Sol](https://github.com/adp-code-2223/Actividad2.4-DAO-Sol.git)<br/>
 [Actividad-2.5](https://github.com/adp-code-2223/Actividad2.5-DAO-Account.git)<br/>
 [Actividad-2.6-SP](https://github.com/adp-code-2223/Actividad2.6-SP.git)<br/>
+
+
+## Propuestas de solución Pruebas 1ª Evaluación
+[Eval1_UD1_Sol](https://github.com/adp-code-2223/Eval1_UD1_Sol.git)<br/>
+[Eval1_UD2_Sol](https://github.com/adp-code-2223/Eval1_UD2_Sol.git)<br/>
