@@ -23,15 +23,15 @@
 [Actividad-2.6-SP](https://github.com/adp-code-2223/Actividad2.6-SP.git)<br/>
 
 ### UD3: Herramientas de mapeamento objeto-relacional (ORM)
-[Actividad-3.1](https://github.com/adp-code-2223/Actividad3.1)<br/>
-[Actividad-3.2](https://github.com/adp-code-2223/Actividad3.2)<br/>
-[Actividad-3.3](https://github.com/adp-code-2223/Actividad3.3.git)<br/>
-[Actividad-3.4](https://github.com/adp-code-2223/Actividad3.4.git)<br/>
-[Actividad-3.5](https://github.com/adp-code-2223/Actividad3.5) <br/>
-[Actividad-3.6](https://github.com/adp-code-2223/Actividad3.6-Enunciado)<br/>
-[Actividad-3.7](https://github.com/adp-code-2223/Actividad3.7.git)<br/>
-[Actividad-3.8] (https://github.com/adp-code-2223/Actividad3.8) <br/>
-[Actividad-3.9](adp-code-2223/Actividad-3.9-Transaction-Sol) <br/>
+[Actividad-3.1 Configuración del entorno con Eclipse e Hibernate (con capturas) ](https://github.com/adp-code-2223/Actividad3.1)<br/>
+[Actividad-3.2 Primeros pasos con Hibernate](https://github.com/adp-code-2223/Actividad3.2)<br/>
+[Actividad-3.3  Consultas sencillas en HQL sobre BD instituto](https://github.com/adp-code-2223/Actividad3.3.git)<br/>
+[Actividad-3.4 Corrección de consultas sencillas en HQL sobre BD empresa](https://github.com/adp-code-2223/Actividad3.4.git)<br/>
+[Actividad-3.5 Consultas sencillas en HQL sobre BD empresa](https://github.com/adp-code-2223/Actividad3.5) <br/>
+[Actividad-3.6 Ampliación BD instituto](https://github.com/adp-code-2223/Actividad3.6-Enunciado)<br/>
+[Actividad-3.7 Consultas en HQL con asociaciones sobre BD empresa](https://github.com/adp-code-2223/Actividad3.7.git)<br/>
+[Actividad-3.8 Lado propietario en M:N y opciones cascade: BD instituto] (https://github.com/adp-code-2223/Actividad3.8) <br/>
+[Actividad-3.9  Aplicación gráfica con Swing e Hibernate](adp-code-2223/Actividad-3.9-Transaction-Sol) <br/>
 [Ejemplo CRUD con GUI Departamento](https://github.com/adp-code-2223/Ejemplo_CRUD_GUI_Departamento.git)<br/>
 
 ## Propuestas de solución Pruebas 1ª Evaluación
