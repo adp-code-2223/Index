@@ -28,9 +28,9 @@
 [Actividad-3.3  Consultas sencillas en HQL sobre BD instituto](https://github.com/adp-code-2223/Actividad3.3.git)<br/>
 [Actividad-3.4 Corrección de consultas sencillas en HQL sobre BD empresa](https://github.com/adp-code-2223/Actividad3.4.git)<br/>
 [Actividad-3.5 Consultas sencillas en HQL sobre BD empresa](https://github.com/adp-code-2223/Actividad3.5) <br/>
-[Actividad-3.6 Ampliación BD instituto](https://github.com/adp-code-2223/Actividad3.6-Enunciado)<br/>
+[Actividad-3.6 Ampliación BD instituto enunciado](https://github.com/adp-code-2223/Actividad3.6-Enunciado)<br/>
 [Actividad-3.7 Consultas en HQL con asociaciones sobre BD empresa](https://github.com/adp-code-2223/Actividad3.7.git)<br/>
-[Actividad-3.8 Lado propietario en M:N y opciones cascade: BD instituto] (https://github.com/adp-code-2223/Actividad3.8) <br/>
+[Actividad-3.8 Lado propietario en M:N y opciones cascade: BD instituto](https://github.com/adp-code-2223/Actividad3.8) <br/>
 [Actividad-3.9  Aplicación gráfica con Swing e Hibernate](adp-code-2223/Actividad-3.9-Transaction-Sol) <br/>
 [Ejemplo CRUD con GUI Departamento](https://github.com/adp-code-2223/Ejemplo_CRUD_GUI_Departamento.git)<br/>
 
