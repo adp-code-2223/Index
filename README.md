@@ -27,6 +27,11 @@
 [Actividad-3.2](https://github.com/adp-code-2223/Actividad3.2)<br/>
 [Actividad-3.3](https://github.com/adp-code-2223/Actividad3.3.git)<br/>
 [Actividad-3.4](https://github.com/adp-code-2223/Actividad3.4.git)<br/>
+[Actividad-3.5](https://github.com/adp-code-2223/Actividad3.5) <br/>
+[Actividad-3.6](https://github.com/adp-code-2223/Actividad3.6-Enunciado)<br/>
+[Actividad-3.7](https://github.com/adp-code-2223/Actividad3.7.git)<br/>
+[Actividad-3.8] (https://github.com/adp-code-2223/Actividad3.8) <br/>
+[Actividad-3.9](adp-code-2223/Actividad-3.9-Transaction-Sol) <br/>
 [Ejemplo CRUD con GUI Departamento](https://github.com/adp-code-2223/Ejemplo_CRUD_GUI_Departamento.git)<br/>
 
 ## Propuestas de solución Pruebas 1ª Evaluación
