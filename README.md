@@ -35,6 +35,7 @@
 [Ejemplo CRUD con GUI Departamento](https://github.com/adp-code-2223/Ejemplo_CRUD_GUI_Departamento.git)<br/>
 [Ejemplo instituto con anotaciones 1-1 FK](https://github.com/adp-code-2223/Ejemplo-instituto-anotaciones-1-1-FK.git)<br/>
 [Ejemplo instituto con anotaciones 1-1 PK iguales](https://github.com/adp-code-2223/Ejemplo-instituto-anotaciones-1-1-PK-es.git)<br/>
+[Ejemplo Herencia](https://github.com/adp-code-2223/UD3_Ejemplo_Herencia.git)<br/>
 
 ## Propuestas de solución Pruebas 1ª Evaluación
 [Eval1_UD1_Sol](https://github.com/adp-code-2223/Eval1_UD1_Sol.git)<br/>
